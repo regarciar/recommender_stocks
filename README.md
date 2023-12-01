@@ -23,9 +23,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de análisis de sentimie
 
 ## Requisitos
 
-- Python 3.x
-- Bibliotecas de Python (por especificar)
-- Conjunto de datos de noticias financieras (proporcionado o adquirido)
+- Python 3.8
 
 ## Instalación
 
@@ -35,7 +33,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de análisis de sentimie
 
 ## Uso
 
-1. Ejecuta el script principal para entrenar el modelo y realizar análisis de sentimiento en las noticias financieras.
+1. Ejecuta los notebooks para entrenar el modelo y realizar análisis de sentimiento en las noticias financieras.
 2. Interactúa con el modelo para obtener recomendaciones de compra o venta de acciones basadas en el análisis de sentimiento.
 
 ## Contribución
